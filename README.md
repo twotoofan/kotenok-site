@@ -1,2 +1,4 @@
 # kotenok-site
-Адаптивный сайт
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+# Адаптивный сайт
+
